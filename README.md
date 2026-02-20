@@ -1,7 +1,9 @@
 # Hi 👋, I'm Sachin barnawal
 
 ### A passionate Full Stack Developer 
- ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+ <p align="center">
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+ </p>
 
 🌱 I’m currently learning React.js   
 📫 How to reach me: sachinbarnawal176@gmail.com  

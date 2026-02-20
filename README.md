@@ -2,7 +2,7 @@
 
 ### A passionate Full Stack Developer 
  <p align="center">
- <img src="C:\Users\HP PC\Downloads\pexels-cottonbro-5474295.jpg" width="400"/>
+ <img src="https://github.com/Sachinbarnawal176/Sachinbarnawal176/blob/main/pexels-cottonbro-5474295.jpg" width="400"/>
  </p>
 
 🌱 I’m currently learning React.js   

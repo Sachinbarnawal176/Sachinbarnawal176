@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Sachinbarnawal176
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi 👋, I'm Sachin barnawal
 
-<!---
-Sachinbarnawal176/Sachinbarnawal176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### A passionate Full Stack Developer 
+ ![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+🌱 I’m currently learning React.js   
+📫 How to reach me: sachinbarnawal176@gmail.com  
+
+---
+
+### 🚀 Skills:
+- ⚛️ React.js
+- 🟢 Node.js
+- 🍃 MongoDB
+- 🚂 Express.js
+- ☕ Java
+- 🐍 Python

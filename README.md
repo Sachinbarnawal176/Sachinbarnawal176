@@ -2,7 +2,7 @@
 
 ### A passionate Full Stack Developer 
  <p align="center">
- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+ <img src="https://study.com/academy/lesson/what-is-programming-definition-introduction-for-beginning-programmers.html" width="400"/>
  </p>
 
 🌱 I’m currently learning React.js   

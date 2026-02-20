@@ -9,6 +9,12 @@
 📫 How to reach me: sachinbarnawal176@gmail.com  
 
 ---
+## 🌐 Connect with me:
+[![LinkdIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/your-link)
+
+
+## 🛩️ Languages and tools:
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node.js,mongodb,git,github,mysql)
 
 ### 🚀 Skills:
 - ⚛️ React.js

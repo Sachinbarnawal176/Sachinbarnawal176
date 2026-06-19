@@ -1,4 +1,7 @@
 # Hi 👋, I'm Sachin barnawal
+💻 Full Stack Developer | MERN STACK 
+🎓 B.Tech CSE 2026
+ Lucknow, India 
 
 ### A passionate Full Stack Developer 
  <p align="center">

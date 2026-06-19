@@ -5,7 +5,7 @@
  <img src="https://github.com/Sachinbarnawal176/Sachinbarnawal176/blob/main/pexels-cottonbro-5474295.jpg" width="400"/>
  </p>
 
-🌱 I’m currently learning React.js   
+🌱 I’m currently learning React.js, Node.js, Mongodb, Express.js etc.  
 📫 How to reach me: sachinbarnawal176@gmail.com  
 
 ---
